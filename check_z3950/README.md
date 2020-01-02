@@ -4,7 +4,7 @@ This is a Koha-centric z39.50 checker.
 
 ## How to use
 
-This plugin requires that the KOHA_CONF enironment variable be set as part of the run.
+This plugin requires that the KOHA_CONF environment variable be set as part of the run.
 
 ```bash
 define command{
