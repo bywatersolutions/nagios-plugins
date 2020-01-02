@@ -6,5 +6,5 @@ if [ $? == 0 ]; then
    exit 0
 else
    echo "CRITICAL - z39.50 query failed"
-   exit 0
+   exit 2
 fi
